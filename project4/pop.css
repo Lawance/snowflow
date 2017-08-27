@@ -1,0 +1,4 @@
+.bdy{margin:0; padding:0; width: 1360px; height:1200px; position:relative; border: 1px solid white;} /* 给设置了relative的body添加border，透明div才能top-0*/
+.contain{width:700px; height:900px; margin:0 auto; background-color:lightgrey; text-align:center}
+.popup{width:200px; height:100px; background-color:skyblue;  position:fixed; left:42%; top:50%; z-index:999; display:none}
+
